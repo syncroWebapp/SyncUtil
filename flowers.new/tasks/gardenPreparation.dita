@@ -4,8 +4,8 @@
     <title product="tst" audience="exp">Garden Preasdparation test</title>
     <taskbody>
         <context><image href="../../flowers/images/Snowdrop.jpg" id="image_vmn_wvq_xt"
-                audience="expert" dir="rlo" importance="high"/><p>An appre asda dadda ciationds test
-                of the conditions under which bulbs grow in nature is of considerable help in
+                audience="expert" dir="rlo" importance="high"/><p>An XML appre asda dadda ciationds
+                test of the conditions under which bulbs grow in nature is of considerable help in
                 understanding their needs in
                             cultivation<indexterm>general<indexterm>care<indexterm>cultivation</indexterm></indexterm></indexterm>,
                 but is by no means all-sufficient. When plants are grown away from their native
@@ -24,8 +24,8 @@
                     carelessly. Improper dosage can do more harm than good.</cmd>
             </step>
             <step>
-                <cmd>When XML dealing with <b>insects</b> and <b>diseases</b>, proper diagnosis of
-                    the trouble is of primary importance.</cmd>
+                <cmd>When XML dealing with <b>insects</b> and <b>diseases</b>, proper diagnosis of the
+                    trouble is of primary importance.</cmd>
             </step>
         </steps>
     </taskbody>
