@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="gardenPreparation">
-    <title>Garden Preparation</title>
+    <title product="tst">Garden Preparation</title>
     <taskbody>
         <context><image href="../../flowers/images/Snowdrop.jpg" id="image_vmn_wvq_xt"
                 audience="expert" dir="rlo" importance="high"/><p>An appreciationds of the
@@ -18,16 +18,6 @@
                 <cmd>Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
                     decay or
                         infestation.<indexterm>general<indexterm>planting</indexterm></indexterm></cmd>
-            </step>
-            <step>
-                <cmd>Make sure that the <b>soil</b> is the <i>proper</i> one. This might be hard to
-                    achieve, but generally an earth midway between sand and clay and containing a
-                    generous measure of organic matter is what most plants want.</cmd>
-            </step>
-            <step>
-                <cmd>All plants need <b>watering</b>, but you should also provide good drainage. An
-                    overabundance of water around bulbs during the dormant period is particularly
-                    harmful. </cmd>
             </step>
             <step>
                 <cmd>Plants respond to fertile soil, but <b>fertilizers</b> must not be used
