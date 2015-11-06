@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="gardenPreparation">
-    <title product="tst">Garden Preparation</title>
+    <title product="tst" audience="expert">Garden Preparation</title>
     <taskbody>
         <context><image href="../../flowers/images/Snowdrop.jpg" id="image_vmn_wvq_xt"
                 audience="expert" dir="rlo" importance="high"/><p>An appreciationds of the
