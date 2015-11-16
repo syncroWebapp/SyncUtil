@@ -13,13 +13,9 @@
             of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
         <p><fig id="fig_qb1_zgk_zt">
                 <data>My flower!</data>
-                <image href="../images/Snowdrop.jpg" id="image_yxv_2x1_zt"/>
-                <dl>
-                    <dlentry>
-                        <dt>Neu</dt>
-                        <dd>addsl</dd>
-                    </dlentry>
-                </dl>
+                <image href="../images/Snowdrop.jpg" id="image_yxv_2x1_zt">
+                    <alt>Mon flower</alt>
+                </image>
             </fig>An image<table frame="none">
                 <title>Flowers</title>
                 <tgroup cols="3">
