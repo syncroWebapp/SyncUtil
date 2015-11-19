@@ -4,9 +4,8 @@
     <title>Care and Preparation</title>
     <body>
         <p><fig id="fig_qb1_zgk_zt">
-                <data>My flower!</data>
                 <image href="../images/Snowdrop.jpg" id="image_yxv_2x1_zt">
-                    <alt>Mon flower</alt>
+                    <alt>My flower</alt>
                 </image>
             </fig>An image<table frame="none">
                 <title>Flowers</title>
