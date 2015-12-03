@@ -33,7 +33,12 @@
                 <image href="../images/Snowdrop.jpg" id="image_yxv_2x1_zt">
                     <alt>Mon flower</alt>
                 </image>
-            </fig>An image<table frame="none">
+            </fig>An image<image href="../images/Chrysanthemums.jpg" id="image_wvv_t4g_f5"/></p>
+        <p><image href="../images/Gardeniaflower.jpg" id="image_g3h_54g_f5"/></p>
+        <p><image href="../images/Lilac.jpg" id="image_y1r_54g_f5"/></p>
+        <p><image href="../images/Snowdrop.jpg" id="image_krz_54g_f5"/></p>
+        <p><image href="../images/Snowdrop.jpg" id="image_rgp_v4g_f5"/><table frame="none"
+                id="table_k3b_54g_f5">
                 <title>Flowers</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
