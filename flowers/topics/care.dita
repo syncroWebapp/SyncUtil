@@ -8,7 +8,8 @@
                 <image href="../images/Snowdrop.jpg" id="image_yxv_2x1_zt">
                     <alt>My flower</alt>
                 </image>
-            </fig>An image<table frame="none">
+            </fig><image href="../../../../../ctalau-oxygen/flowers/master/images/Gerbera.jpg"
+                id="image_vsk_h2n_h5"/>An image<table frame="none">
                 <title>Flowers</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
