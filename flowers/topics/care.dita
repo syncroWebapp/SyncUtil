@@ -9,7 +9,11 @@
                     <alt>My flower</alt>
                 </image>
             </fig><image href="../../../../../ctalau-oxygen/flowers/master/images/Gerbera.jpg"
-                id="image_vsk_h2n_h5"/>An image<table frame="none">
+                id="image_vsk_h2n_h5"/>An i<image
+                href="../../../../../ctalau-oxygen/flowers/master/images/Chrysanthemums.jpg"
+                id="image_ngs_j2n_h5"/>ma<image
+                href="../../../../../ctalau-oxygen/flowers/master/images/Gardeniaflower.jpg"
+                id="image_xll_k2n_h5"/>ge<table frame="none">
                 <title>Flowers</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
