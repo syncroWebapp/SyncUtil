@@ -8,9 +8,9 @@
     <p>Flowers and seasons are intimately bound to each other. When Most of the flowers are
       season-specific. However, some flowers are found throughout the year, not particularly
       affected by changing seasons.<note>This is a note</note><table id="table_txb_ly5_35">
-        <title>Belzebuy</title>
+        <title>Belzebut</title>
         <tgroup cols="3">
-          <colspec colname="1" colnum="1" colwidth="1*" align="center" colsep="1"/>
+          <colspec colname="1" colnum="1" colwidth="1*" align="center"/>
           <colspec colname="2" colnum="3" colwidth="1.0*"/>
           <colspec colname="3" colnum="2" colwidth="1.0*" colsep="0"/>
           <thead>
@@ -22,12 +22,11 @@
           </thead>
           <tbody>
             <row>
-              <entry>Value1</entry>
+              <entry morerows="1">Value1V2</entry>
               <entry>Value2</entry>
               <entry>Value3</entry>
             </row>
             <row>
-              <entry>V2</entry>
               <entry>V2</entry>
               <entry>V2</entry>
             </row>
