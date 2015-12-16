@@ -10,9 +10,9 @@
       affected by changing seasons.<note>This is a note</note><table id="table_txb_ly5_35">
         <title>Belzebut</title>
         <tgroup cols="3">
-          <colspec colname="1" colnum="1" colwidth="1*" align="center"/>
-          <colspec colname="2" colnum="3" colwidth="1.0*"/>
-          <colspec colname="3" colnum="2" colwidth="1.0*" colsep="0"/>
+          <colspec colname="1" colnum="1" colwidth="1*" align="center" rowsep="1" colsep="1"/>
+          <colspec colname="2" colnum="2" colwidth="1.0*" rowsep="1" colsep="1"/>
+          <colspec colname="3" colnum="3" colwidth="1.0*" colsep="1" align="center" rowsep="1"/>
           <thead>
             <row>
               <entry>1</entry>
@@ -32,8 +32,7 @@
             </row>
             <row>
               <entry>V3</entry>
-              <entry>V3</entry>
-              <entry>V3</entry>
+              <entry namest="3" nameend="2">V3V3</entry>
             </row>
           </tbody>
         </tgroup>
