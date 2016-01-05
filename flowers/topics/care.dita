@@ -3,7 +3,7 @@
 <topic id="care">
     <title>DocumentTitle</title>
     <body>
-        <p>1. A changes.</p>
+        <p audience="expert">1. A changes.</p>
         <p>2 Conflict</p>
         <p>3 This is a change</p>
         <p>4. One more change</p>
