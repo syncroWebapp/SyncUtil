@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+                       "topic.dtd">
+<topic id="oxygen-shortcuts-list">
+  <title><ph keyref="product"/> Shortcuts</title>
+  <body>
+    <p>List of shortcuts in <ph keyref="product"/><table frame="all">
+        <!--All numpad keys will be written as "NumPadCHARACTER". Ex: NumPad+, NumPad0, NumPad/-->
+        <title>Shortcuts</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1asdasd"/>
+          <colspec colname="c2" colnum="2" colwidth="500px"/>
+          <thead>
+            <row>
+              <entry>Shortcut</entry>
+              <entry>Action</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>d</entry>
+              <entry>s asdd as<image href="http://i.imgur.com/Pfu5IX0.jpg" id="image_jvz_svl_cv"/>
+                dsd ad asd asd as as as as ass as as as das as</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry>a</entry>
+            </row>
+            
+          </tbody>
+        </tgroup>
+      </table></p>
+  </body>
+</topic>
