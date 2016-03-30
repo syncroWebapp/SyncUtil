@@ -306,8 +306,6 @@
       champion de France et 4 titres de champion d'Europe.</p>
     <p>Le cassoulet et la saucisse sont les spécialités emblématiques de la gastronomie
       toulousaine.</p>
-    <image href="../img/capitole.jpg" id="image_p1k_dnb_p5"/>
-    <image href="../img/hotel.jpg" id="image_p2n_cyv_k5"/>
     <p>Le Stadium municipal est la plus grande enceinte sportive de Toulouse. C'est le dixième stade
       français par la capacité. Il est situé sur l'île du Ramier, à proximité immédiate du centre de
       Toulouse.</p>
@@ -321,7 +319,6 @@
       Saint-Michel – Marcel-Langer, ainsi que par la ligne T1 du Tramway, arrêt Ile du Ramier et
       arrêt Croix-de-Pierre. Il est également desservi par les lignes 11, 12, 34 et 52 du réseau bus
       de Tisséo aux arrêts Stadium-Est et Stadium-Ouest</p>
-    <image href="../img/stadium.jpg" id="image_avx_cyv_k5"/>
     <p>Le pont Saint-Pierre de Toulouse passe au-dessus de la Garonne et relie la place Saint-Pierre
       à l'hospice de la Grave. C'est un pont au tablier métallique, entièrement reconstruit en
       1987.</p>
@@ -404,7 +401,6 @@
       </tgroup>
     </table>
     <p><b><u>Cette image ne se charge pas car son URI est incorrecte</u></b></p>
-    <image id="image_myz_yv1_p5" href="img/capitole-fail.jpg"/>
     <table id="table_sk4_rs4_3v">
       <title>Tableau climatologique de Toulouse-Blagnac (période : 1981-2010)</title>
       <tgroup cols="14">
