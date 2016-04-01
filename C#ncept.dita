@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yl4_nmm_15">
-  <title base="sadasdas">Title asd</title>
+  <title/>
   <body>
-    <p>This is an AWS Testdada</p>
+    <p/>
+    <p/>
+    <p/>
   </body>
-  <topic id="topic_i1t_yyt_y5">
-    <title/>
-    <body>
-      <p>fda<image href="images/fira.jpg" id="image_zj1_ht3_3v"/>sad</p>
-      <p/>
-      <p/>
-      <p>asd Conflict 2</p>
-      <p/>
-    </body>
-  </topic>
 </topic>
