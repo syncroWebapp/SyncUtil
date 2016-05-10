@@ -3,11 +3,22 @@
 <topic id="care">
     <title>DocumentTitle</title>
     <body>
-        <p audience="expert">1. A changes.</p>
-        <p>2 Conflict</p>
-        <p>3 This is a change</p>
-        <p>4. One more change</p>
-        <p>5ss</p>
-        <p>6. Conflicts!</p>
+        <p audience="expert">1. A changes.<image
+                href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Chrysanthemums.jpg"
+                id="image_l5f_tns_xv"/></p>
+        <p>2 Conflict<image
+                href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Gardeniaflower.jpg"
+                id="image_k3m_tns_xv"/></p>
+        <p>3 This is a change<image
+                href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Gerbera.jpg"
+                id="image_wlr_tns_xv"/></p>
+        <p>4. One more change<image
+                href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Iris_sanguinea.jpg"
+                id="image_j4z_tns_xv"/></p>
+        <p>5ss<image href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Lilac.jpg"
+                id="image_bnh_5ns_xv"/></p>
+        <p>6. Conflicts!<image
+                href="github://getFileContent/ggbt/SyncUtil/belzebut/flowers/images/Snowdrop.jpg"
+                id="image_vtn_5ns_xv"/></p>
     </body>
 </topic>
