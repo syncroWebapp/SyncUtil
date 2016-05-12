@@ -32,7 +32,7 @@
       <docauthor>Book Author</docauthor>
       <level>
         <p>My book here</p>
-        <p>And yeah, some other <a href="http://www.google.ro">book</a></p>
+        <p>Conflict And yeah, some other <a href="http://www.google.ro">book</a></p>
       </level>
     </frontmatter>
   </book>
