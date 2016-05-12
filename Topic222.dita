@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_kly_rkc_vt">
+  <title></title>
+  <body>
+    <p>This is a paragraph and I hava a <sub>subscript here and a <sub>sub-sub script</sub></sub>.
+      And this lline is ling so I will have text and see what seee it u</p>
+    <p>Some more text here full</p>
+  </body>
+</topic>
