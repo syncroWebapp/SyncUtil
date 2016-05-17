@@ -4,7 +4,7 @@
     <title>--stests--</title>
     <shortdesc/>
     <taskbody>
-        <context>s<p>dsas</p></context>
+        <context>s<p/></context>
         <steps>
             <step>
                 <cmd></cmd>
