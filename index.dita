@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="index">
-  <title>Flowers by
-    <?oxy_delete author="third" timestamp="20160308T095749+0200" content="Season"?></title>
+  <title><?oxy_insert_start author="Gabriel Titerlea" timestamp="20160520T111258+0300"?>sda<?oxy_insert_end?>Flowers
+    by <?oxy_delete author="third" timestamp="20160308T095749+0200" content="Season"?></title>
   <body>
     <p>The various climatic changes that occur in
       <?oxy_delete author="qweewqqwe" timestamp="20160308T095705+0200" content="cyclic"?> pattern
