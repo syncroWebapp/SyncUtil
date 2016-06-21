@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="index">
-  <title>Flowers by
+  <title>Flowers by<?oxy_insert_start author="Gabriel Titerlea" timestamp="20160621T133826+0300"?>
+    <?oxy_insert_end?>
     <?oxy_delete author="third" timestamp="20160308T095749+0200" content="Season"?></title>
   <body>
     <p>The various climatic changes that occur in
@@ -36,4 +37,3 @@
       </table></p>
   </body>
 </topic>
-<?oxy_options track_changes="on"?>
