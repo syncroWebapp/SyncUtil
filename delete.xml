@@ -10,7 +10,56 @@
             <para>The equation as a block. A line of
                 text.</para>
             <equation>
-                <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>f</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>5</mn></msqrt></mfrac><mfenced open="[" close="]"><mrow><msup><mfenced><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mn>5</mn></msqrt></mrow><mn>2</mn></mfrac></mfenced><mi>n</mi></msup><mo>-</mo><msup><mfenced><mfrac><mrow><mn>1</mn><mo>-</mo><msqrt><mn>5</mn></msqrt></mrow><mn>2</mn></mfrac></mfenced><mi>n</mi></msup></mrow></mfenced></math>
+                <?oxy_insert_start author="Gabriel Titerlea" timestamp="20160622T155917+0300"?>
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <msub>
+                        <mi>f</mi>
+                        <mi>n</mi>
+                    </msub>
+                    <mo>=</mo>
+                    <mfrac>
+                        <mn>33</mn>
+                        <msqrt>
+                            <mn>5</mn>
+                        </msqrt>
+                    </mfrac>
+                    <mfenced open="[" close="]">
+                        <mrow>
+                            <msup>
+                                <mfenced>
+                                    <mfrac>
+                                        <mrow>
+                                            <mn>1</mn>
+                                            <mo>+</mo>
+                                            <msqrt>
+                                                <mn>5</mn>
+                                            </msqrt>
+                                        </mrow>
+                                        <mn>2</mn>
+                                    </mfrac>
+                                </mfenced>
+                                <mi>n</mi>
+                            </msup>
+                            <mo>-</mo>
+                            <msup>
+                                <mfenced>
+                                    <mfrac>
+                                        <mrow>
+                                            <mn>1</mn>
+                                            <mo>-</mo>
+                                            <msqrt>
+                                                <mn>5</mn>
+                                            </msqrt>
+                                        </mrow>
+                                        <mn>2</mn>
+                                    </mfrac>
+                                </mfenced>
+                                <mi>n</mi>
+                            </msup>
+                        </mrow>
+                    </mfenced>
+                </math>
+                <?oxy_insert_end?>
             </equation>
             <para>Another line of text.</para>
             <para>Inline equation. The equation :<inlineequation><math
@@ -32,3 +81,4 @@
         </sect2>
 	</sect1>
 </article>
+<?oxy_options track_changes="on"?>
