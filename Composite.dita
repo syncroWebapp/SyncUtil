@@ -7,7 +7,7 @@
         <context>s<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>1</cmd>
             </step>
         </steps>
     </taskbody>
