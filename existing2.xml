@@ -30,7 +30,7 @@
     <frontmatter>
       <doctitle>Book-Title</doctitle>
       <docauthor><?oxy_delete author="Gabriel Titerlea" timestamp="20160627T134928+0300" content="Book"?>
-        Author</docauthor>
+        Auth<?oxy_delete author="Gabriel Titerlea" timestamp="20160627T135036+0300" content="or"?></docauthor>
     </frontmatter>
   </book>
 </dtbook>
