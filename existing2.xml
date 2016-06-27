@@ -29,7 +29,9 @@
   <book>
     <frontmatter>
       <doctitle>Book-Title</doctitle>
-      <docauthor>Book Author</docauthor>
+      <docauthor><?oxy_delete author="Gabriel Titerlea" timestamp="20160627T134928+0300" content="Book"?>
+        Author</docauthor>
     </frontmatter>
   </book>
 </dtbook>
+<?oxy_options track_changes="on"?>
