@@ -1,84 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.oxygenxml.com/docbook/xml/5.0/rng/dbmathmlsvg.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<article xmlns="http://docbook.org/ns/docbook" version="5.0"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>MathML and SVG</title>
-    <sect1>
-        <title>MathML</title>
-        <sect2>
-            <title>Embedded MathML </title>
-            <para>The equation as a block. A line of
-                text.</para>
-            <equation>
-                <?oxy_insert_start author="Gabriel Titerlea" timestamp="20160622T155917+0300"?>
-                <math xmlns="http://www.w3.org/1998/Math/MathML">
-                    <msub>
-                        <mi>f</mi>
-                        <mi>n</mi>
-                    </msub>
-                    <mo>=</mo>
-                    <mfrac>
-                        <mn>33</mn>
-                        <msqrt>
-                            <mn>5</mn>
-                        </msqrt>
-                    </mfrac>
-                    <mfenced open="[" close="]">
-                        <mrow>
-                            <msup>
-                                <mfenced>
-                                    <mfrac>
-                                        <mrow>
-                                            <mn>1</mn>
-                                            <mo>+</mo>
-                                            <msqrt>
-                                                <mn>5</mn>
-                                            </msqrt>
-                                        </mrow>
-                                        <mn>2</mn>
-                                    </mfrac>
-                                </mfenced>
-                                <mi>n</mi>
-                            </msup>
-                            <mo>-</mo>
-                            <msup>
-                                <mfenced>
-                                    <mfrac>
-                                        <mrow>
-                                            <mn>1</mn>
-                                            <mo>-</mo>
-                                            <msqrt>
-                                                <mn>5</mn>
-                                            </msqrt>
-                                        </mrow>
-                                        <mn>2</mn>
-                                    </mfrac>
-                                </mfenced>
-                                <mi>n</mi>
-                            </msup>
-                        </mrow>
-                    </mfenced>
-                </math>
-                <?oxy_insert_end?>
-            </equation>
-            <para>Another line of text.</para>
-            <para>Inline equation. The equation :<inlineequation><math
-                        xmlns="http://www.w3.org/1998/Math/MathML">
-                        <mstyle>
-                            <mrow>
-                                <mfrac>
-                                    <mrow>
-                                        <mi>sin</mi>
-                                        <mo rspace="verythinmathspace">&#x2061;</mo>
-                                        <mi>θ</mi>
-                                    </mrow>
-                                    <mi>π</mi>
-                                </mfrac>
-                            </mrow>
-                        </mstyle>
-                    </math>
-                </inlineequation> followed by some more text.</para>
-        </sect2>
-	</sect1>
-</article>
-<?oxy_options track_changes="on"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Chapter [
+	<!ENTITY dhyphen "">
+	<!ENTITY shyphen "">
+]>
+<?VasontExtractInfo entity_id="6632707" version_id="16264" load_version_id="16265"?>
+<Chapter UniqueID="a666" Type="chapter">
+	<Title UniqueID="v3199806" edition="[MPM]">Selecting and Providing a Home for a Dog</Title>
+	<D_Head UniqueID="v3199807">
+		<Title UniqueID="v3199808">Selecting a Dog</Title>
+		<Para UniqueID="v3199809">Choosing the dog that is right for you and your family is very important. The large variety of breeds means that dogs come in all sizes, shapes, and colors, and have a range of temperaments. Many dog breeds have been developed for specific purposes and behaviors. A mismatch can result in unnecessary stress and lead to behavioral problems, which can be difficult to correct.</Para>	</D_Head>
+</Chapter>
