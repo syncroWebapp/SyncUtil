@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <title>Text</title>
+    </info>
+    <sect1>
+        <title>Section</title>
+        <sect2>
+            <title>ceva</title>
+            <table frame="all">
+                <title>title</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                    <thead/>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <para>This is a paragraph that will receive the incoming text.</para>
+        </sect2>
+    </sect1>
+</article>
