@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Part of the CSS comes from the associated document type. 
+    It's path is ${frameworks}/samples/css/form-controls.css. -->
+<?xml-stylesheet type="text/css" href="form-controls-text-area.css"?>
+
+<formControls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.oxygenxml.com/ns/samples/form-controls form-controls.xsd"
+    xmlns="http://www.oxygenxml.com/ns/samples/form-controls">   
+    <title>Form controls</title>
+    <abstract>
+        <p>Form controls have been introduced to allow attribute values to be edited right into the
+            author area.</p>
+    </abstract>
+    <section>
+        <title>Text area</title>
+        <pre>value</pre>
+    </section>
+</formControls>
