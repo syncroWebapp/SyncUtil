@@ -6,7 +6,7 @@
     <p>
       <fig id="fig_um1_rn5_kx">
         <title>My figure</title>
-        <image id="image_ncv_rn5_kx" href="../../images/Iris_sanguinea.jpg"/>
+        <image href="../../images/Iris_sanguinea.jpg"/>
       </fig>
     </p>
   </body>
