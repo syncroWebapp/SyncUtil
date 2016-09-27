@@ -4,9 +4,9 @@
   <title></title>
   <body>
     <p>
-      <fig>
+      <fig id="fig_dgj_w45_kx">
         <title>My figure</title>
-        <image href="../../images/Iris_sanguinea.jpg"/>
+        <image href="../../images/Iris_sanguinea.jpg" id="image_egj_w45_kx"/>
       </fig>
     </p>
   </body>
