@@ -4,7 +4,7 @@
   <title></title>
   <body>
     <p>
-      <fig id="fig_um1_rn5_kx">
+      <fig>
         <title>My figure</title>
         <image href="../../images/Iris_sanguinea.jpg"/>
       </fig>
