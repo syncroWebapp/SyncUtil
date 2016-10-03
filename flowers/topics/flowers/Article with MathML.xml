@@ -44,21 +44,26 @@
                     </mml:semantics>
                 </mml:math>
             </equation></para>
-        <para>Lorem ipsum dolor sit amet, no tation debitis fastidii mei, hinc clita delectus mea
-            ut, sed omnes fuisset assentior ea. Ea conceptam vituperatoribus nam, ea ipsum ullum
-            commune sed. Utinam inermis consequat his cu, cum atqui accumsan sadipscing ei. Ut ius
-            stet audiam facilis, per id utamur copiosae. Pro an prodesset dissentiunt, id discere
-            inermis alienum sea. Vim verterem ocurreret ex, id sed sint nemore tractatos.</para>
-        <para>Vel an modus malorum sapientem, mei nullam oblique scaevola cu. Ubique erroribus eos
-            cu, mei everti eleifend te. Ei porro facer tempor usu, pro et scaevola adipisci. Eos eu
-            admodum lucilius abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes
-            mel ex, mei et suas tota concludaturque. In nemore democritum instructior vis, nec
-            fuisset probatus in.</para>
+        <para>Lorem ipsum dolor sit
+            <?oxy_comment_start author="s" timestamp="20161003T083459+0300" comment="Q"?>amet<?oxy_comment_end?>,
+            no tation debitis fastidii mei, hinc clita delectus mea ut, sed omnes fuisset assentior
+            ea. Ea conceptam vituperatoribus nam, ea ipsum ullum commune sed. Utinam inermis
+            consequat his cu, cum atqui accumsan sadipscing ei. Ut ius stet audiam facilis, per id
+            utamur copiosae. Pro an prodesset dissentiunt, id discere inermis alienum sea. Vim
+            verterem ocurreret ex, id sed sint nemore tractatos.</para>
+        <para>Vel an modus malorum sapientem, mei nullam oblique
+            scae<?oxy_comment_start author="s" timestamp="20161003T083508+0300" comment="eas"?>vola
+            <?oxy_comment_end?>cu. Ubique erroribus eos cu, mei everti eleifend te. Ei porro facer
+            tempor usu, pro et scaevola adipisci. Eos eu admodum lucilius abhorreant, nonumy fabulas
+            incorrupte te pri. Elitr veniam principes mel ex, mei et suas tota concludaturque. In
+            nemore democritum instructior vis, nec fuisset probatus in.</para>
         <para>Nam graeco accumsan sensibus cu. Id eum tibique corpora. Ex aliquip legimus
             persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum
             agam adhuc an, eu natum ridens mea.</para>
-        <para>Vim ad numquam similique, vix ad percipit aliquando dissentiet. At ullum dicam has.
-            Dicit pertinacia vel ad, ad sit meis inimicus. An sit iisque complectitur, sea nostrum
+        <para>Vim ad numquam
+            similiqu<?oxy_comment_start author="s" timestamp="20161003T083504+0300" comment="W"?>e,
+            vix a<?oxy_comment_end?>d percipit aliquando dissentiet. At ullum dicam has. Dicit
+            pertinacia vel ad, ad sit meis inimicus. An sit iisque complectitur, sea nostrum
             iudicabit appellantur ei. Vel tale deleniti insolens et, dolor vulputate sea ut.</para>
         <para>Lorem ipsum dolor sit amet, no tation debitis fastidii mei, hinc clita delectus mea
             ut, sed omnes fuisset assentior ea. Ea conceptam vituperatoribus nam, ea ipsum ullum
@@ -70,9 +75,11 @@
             admodum lucilius abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes
             mel ex, mei et suas tota concludaturque. In nemore democritum instructior vis, nec
             fuisset probatus in.</para>
-        <para>Nam graeco accumsan sensibus cu. Id eum tibique corpora. Ex aliquip legimus
-            persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum
-            agam adhuc an, eu natum ridens mea.</para>
+        <para>Nam graeco
+            accumsan<?oxy_comment_start author="s" timestamp="20161003T083516+0300" comment="Lorem ipsum"?>
+            sensibus cu. Id eum tib<?oxy_comment_end?>ique corpora. Ex aliquip legimus persequeris
+            mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum agam adhuc
+            an, eu natum ridens mea.</para>
         <para>Vim ad numquam similique, vix ad percipit aliquando dissentiet. At ullum dicam has.
             Dicit pertinacia vel ad, ad sit meis inimicus. An sit iisque complectitur, sea nostrum
             iudicabit appellantur ei. Vel tale deleniti insolens et, dolor vulputate sea ut.</para>
@@ -128,17 +135,21 @@
             </mml:semantics>
         </mml:math>
         </equation></para>
-        <para>This is crazy.</para>
+        <para>This is
+            <?oxy_comment_start author="s" timestamp="20161003T083524+0300" comment="Crazy I tells you"?>crazy.<?oxy_comment_end?></para>
         <para>Lorem ipsum dolor sit amet, no tation debitis fastidii mei, hinc clita delectus mea
             ut, sed omnes fuisset assentior ea. Ea conceptam vituperatoribus nam, ea ipsum ullum
             commune sed. Utinam inermis consequat his cu, cum atqui accumsan sadipscing ei. Ut ius
             stet audiam facilis, per id utamur copiosae. Pro an prodesset dissentiunt, id discere
             inermis alienum sea. Vim verterem ocurreret ex, id sed sint nemore tractatos.</para>
-        <para>Vel an modus malorum sapientem, mei nullam oblique scaevola cu. Ubique erroribus eos
-            cu, mei everti eleifend te. Ei porro facer tempor usu, pro et scaevola adipisci. Eos eu
-            admodum lucilius abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes
-            mel ex, mei et suas tota concludaturque. In nemore democritum instructior vis, nec
-            fuisset probatus in.</para>
+        <para>Vel an modus malorum sapientem, mei
+            nul<?oxy_comment_start author="s" timestamp="20161003T083533+0300" comment="Some more comms
+"?>lam
+            oblique scaevola cu. Ubique erroribus eos cu, mei everti eleifend te. Ei porro facer
+            tempor usu, pro et scaevola adipisci. Eos e<?oxy_comment_end?>u admodum lucilius
+            abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes mel ex, mei et suas
+            tota concludaturque. In nemore democritum instructior vis, nec fuisset probatus
+            in.</para>
         <para>Nam graeco accumsan sensibus cu. Id eum tibique corpora. Ex aliquip legimus
             persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum
             agam adhuc an, eu natum ridens mea.</para>
@@ -147,30 +158,36 @@
             iudicabit appellantur ei. Vel tale deleniti insolens et, dolor vulputate sea ut.</para>
         <para>Lorem ipsum dolor sit amet, no tation debitis fastidii mei, hinc clita delectus mea
             ut, sed omnes fuisset assentior ea. Ea conceptam vituperatoribus nam, ea ipsum ullum
-            commune sed. Utinam inermis consequat his cu, cum atqui accumsan sadipscing ei. Ut ius
-            stet audiam facilis, per id utamur copiosae. Pro an prodesset dissentiunt, id discere
-            inermis alienum sea. Vim verterem ocurreret ex, id sed sint nemore tractatos.</para>
+            com<?oxy_comment_start author="s" timestamp="20161003T083544+0300" comment="I want to see a scroll"?>mun<?oxy_comment_end?>e
+            sed. Utinam inermis consequat his cu, cum atqui accumsan sadipscing ei. Ut ius stet
+            audiam facilis, per id utamur copiosae. Pro an prodesset dissentiunt, id discere inermis
+            alienum sea. Vim verterem ocurreret ex, id sed sint nemore tractatos.</para>
         <para>Vel an modus malorum sapientem, mei nullam oblique scaevola cu. Ubique erroribus eos
             cu, mei everti eleifend te. Ei porro facer tempor usu, pro et scaevola adipisci. Eos eu
             admodum lucilius abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes
             mel ex, mei et suas tota concludaturque. In nemore democritum instructior vis, nec
             fuisset probatus in.</para>
         <para>Nam graeco accumsan sensibus cu. Id eum tibique corpora. Ex aliquip legimus
-            persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum
-            agam adhuc an, eu natum ridens mea.</para>
-        <para>Vim ad numquam similique, vix ad percipit aliquando dissentiet. At ullum dicam has.
-            Dicit pertinacia vel ad, ad sit meis inimicus. An sit iisque complectitur, sea nostrum
-            iudicabit appellantur ei. Vel tale deleniti insolens et, dolor vulputate sea ut.</para>
+            persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius.
+            Cum<?oxy_comment_start author="s" timestamp="20161003T083550+0300" comment="L:ies"?>
+            agam ad<?oxy_comment_end?>huc an, eu natum ridens mea.</para>
+        <para>Vim ad numquam similique, vix ad percipit
+            <?oxy_comment_start author="s" timestamp="20161003T083556+0300" comment="HDG"?>aliquando
+            dissenti<?oxy_comment_end?>et. At ullum dicam has. Dicit pertinacia vel ad, ad sit meis
+            inimicus. An sit iisque complectitur, sea nostrum iudicabit appellantur ei. Vel tale
+            deleniti insolens et, dolor vulputate sea ut.</para>
         <para>Lorem ipsum dolor sit amet, no tation debitis fastidii mei, hinc clita delectus mea
             ut, sed omnes fuisset assentior ea. Ea conceptam vituperatoribus nam, ea ipsum ullum
             commune sed. Utinam inermis consequat his cu, cum atqui accumsan sadipscing ei. Ut ius
             stet audiam facilis, per id utamur copiosae. Pro an prodesset dissentiunt, id discere
             inermis alienum sea. Vim verterem ocurreret ex, id sed sint nemore tractatos.</para>
-        <para>Vel an modus malorum sapientem, mei nullam oblique scaevola cu. Ubique erroribus eos
-            cu, mei everti eleifend te. Ei porro facer tempor usu, pro et scaevola adipisci. Eos eu
-            admodum lucilius abhorreant, nonumy fabulas incorrupte te pri. Elitr veniam principes
-            mel ex, mei et suas tota concludaturque. In nemore democritum instructior vis, nec
-            fuisset probatus in.</para>
+        <para>Vel an modus malorum sapientem, mei nullam oblique
+            <?oxy_comment_start author="s" timestamp="20161003T083603+0300" comment="w1"?>scaevola
+            <?oxy_comment_end?>cu. Ubique erroribus eos cu, mei everti eleifend te. Ei porro facer
+            tempor usu, pro et scaevola adipisci. Eos eu admodum lucilius abhorreant, nonumy fabulas
+            incorrupte te pri. Elitr veniam principes mel ex, mei et suas tota concludaturque. In
+            ne<?oxy_comment_start author="s" timestamp="20161003T083610+0300" comment="Try me"?>more
+            democritum in<?oxy_comment_end?>structior vis, nec fuisset probatus in.</para>
         <para>Nam graeco accumsan sensibus cu. Id eum tibique corpora. Ex aliquip legimus
             persequeris mea, detracto deserunt pertinax nec ea. Partem invenire inimicus et ius. Cum
             agam adhuc an, eu natum ridens mea.</para>
