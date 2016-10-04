@@ -7,7 +7,7 @@
     version="5.0">
     <title/>
     <sect1>
-        <title/>
+        <title>Title</title>
         <para>An equation: <equation>
                 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
                     <mml:semantics>
