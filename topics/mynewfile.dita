@@ -3,9 +3,12 @@
 <topic id="topic_o3k_tz5_vt">
   <title>Title herse</title>
   <body>
-    <p>Some paragraph.</p>
-    <p><line-through>Some lined through</line-through> SSS</p>
+    <p>Some paragraph.<?oxy_insert_start author="y" timestamp="20161010T123313+0300"?> insert some
+      text.<?oxy_insert_end?></p>
+    <p><line-through>Some lined through</line-through>
+      <?oxy_delete author="y" timestamp="20161010T123327+0300" content="SSS"?></p>
     <p>Thousandfold</p>
     <p>Inis Mona</p>
   </body>
 </topic>
+<?oxy_options track_changes="on"?>
