@@ -4,6 +4,6 @@
   <title>Title here</title>
   <body>
     <p>Some paragraph.</p>
-    <p><line-through>Some lined through</line-through></p>
+    <p><line-through>Some lined through</line-through>s</p>
   </body>
 </topic>
