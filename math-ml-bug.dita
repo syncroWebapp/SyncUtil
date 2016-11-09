@@ -16,6 +16,7 @@
                 <mml:mi mathvariant="italic">score</mml:mi>
                 <mml:mo>=</mml:mo>
                 <mml:mfrac>
+                  <mml:mo>∑</mml:mo>
                   <mml:mrow>
                     <mml:mi mathvariant="italic">rule_weight</mml:mi>
                   </mml:mrow>
