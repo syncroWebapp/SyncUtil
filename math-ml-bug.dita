@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_f22_nyp_wx">
+  <title>Titless</title>
+  <body>
+    <math class="+ topic/foreign math-d/math " href="math-formula.mml" type="presentation" />  
+    <p/>
+    <p>
+      <math type="presentation">
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" class="+ topic/foreign math-d/math ">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:mrow>
+                <mml:mi mathvariant="italic">score</mml:mi>
+                <mml:mo>=</mml:mo>
+                <mml:mfrac>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">rule_weight</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>n</mml:mi>
+                  </mml:mrow>
+                </mml:mfrac>
+              </mml:mrow>  
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </math>
+    </p>
+  </body>
+</topic>
