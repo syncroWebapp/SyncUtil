@@ -9,24 +9,24 @@
     <p/>
     <p>
       <math type="presentation">
-        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" class="+ topic/foreign math-d/math ">
-          <m:semantics>
-            <m:mrow>
-              <m:mrow>
-                <m:mi mathvariant="italic">score</m:mi>
-                <m:mo>=</m:mo>
-                <m:mfrac>
-                  <m:mrow>
-                    <m:mi mathvariant="italic">rule_weight</m:mi>
-                  </m:mrow>
-                  <m:mrow>
-                    <m:mi>n</m:mi>
-                  </m:mrow>
-                </m:mfrac>
-              </m:mrow>  
-            </m:mrow>
-          </m:semantics>
-        </m:math>
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" class="+ topic/foreign math-d/math ">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:mrow>
+                <mml:mi mathvariant="italic">score</mml:mi>
+                <mml:mo>=</mml:mo>
+                <mml:mfrac>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">rule_weight</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>n</mml:mi>
+                  </mml:mrow>
+                </mml:mfrac>
+              </mml:mrow>  
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
       </math>
     </p>
   </body>
