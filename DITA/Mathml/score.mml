@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+	<semantics>
+		<mrow>
+			<mrow>
+				<mi mathvariant="italic">score</mi>
+				<mo>=</mo>
+				<mrow>
+					<mfrac>
+						<mrow>
+							<mi mathvariant="italic">rule_weight</mi>
+						</mrow>
+						<mrow>
+							<mi>n</mi>
+						</mrow>
+					</mfrac>
+					<mo>∗</mo>
+					<mrow>
+						<mrow>
+							<munderover>
+								<mo>∑</mo>
+								<mrow>
+									<mi>x</mi>
+									<mo>=</mo>
+									<mn>1</mn>
+								</mrow>
+								<mi>n</mi>
+							</munderover>
+							<mrow>
+								<mrow>
+									<msub>
+										<mi mathvariant="italic">weight</mi>
+										<mi>i</mi>
+									</msub>
+									<mo stretchy="false">∗</mo>
+									<msub>
+										<mi mathvariant="italic">similarity</mi>
+										<mi>i</mi>
+									</msub>
+								</mrow>
+							</mrow>
+						</mrow>
+					</mrow>
+				</mrow>
+			</mrow>
+		</mrow>
+		<annotation encoding="StarMath 5.0">score = {1} over {n} * rule_weight * sum { weight_i *
+			similarity_i } </annotation>
+	</semantics>
+</math>

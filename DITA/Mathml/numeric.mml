@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mi mathvariant="italic">similarity</mi>
+    <mo stretchy="false">=</mo>
+    <mrow>
+     <mn>1</mn>
+     <mo stretchy="false">−</mo>
+     <mfrac>
+      <mrow>
+       <mfenced open="∣" close="∣">
+        <mrow>
+         <mrow>
+          <mi>a</mi>
+          <mo stretchy="false">−</mo>
+          <mi>b</mi>
+         </mrow>
+        </mrow>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <mi mathvariant="italic">max</mi>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mrow>
+         <mfenced open="∣" close="∣">
+          <mi>a</mi>
+         </mfenced>
+         <mi>,</mi>
+         <mfenced open="∣" close="∣">
+          <mi>b</mi>
+         </mfenced>
+        </mrow>
+        <mo stretchy="false">)</mo>
+       </mrow>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">similarity =  1 - {abs {a-b}} over {max(abs a,abs b)} </annotation>
+ </semantics>
+</math>
