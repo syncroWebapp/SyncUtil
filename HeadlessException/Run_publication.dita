@@ -12,6 +12,9 @@
                 </cmd>
             </step>
             <step>
+                <cmd><image href="images/blured-shapes.svg" id="image_txc_t34_1z"/></cmd>
+            </step>
+            <step>
                 <cmd>
                     <image href="images%2Fcp_4_publ_iihf.png" id="image_task_taskbody_steps_step_2" placement="break" width="400"/>
                     <image href="images%2Fcp_5_publ_nhl.png" placement="break" width="400"/>
