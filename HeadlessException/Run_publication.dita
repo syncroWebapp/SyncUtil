@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="Run_publication_1" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Run publication </title>
+    <taskbody>
+        <context>
+            <p>Manage</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>:
+                    <image href="images%2Fcp_3_publ_profile.png" id="image_task_taskbody_steps_step_1" placement="break" width="400"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>
+                    <image href="images%2Fcp_4_publ_iihf.png" id="image_task_taskbody_steps_step_2" placement="break" width="400"/>
+                    <image href="images%2Fcp_5_publ_nhl.png" placement="break" width="400"/>
+                </cmd>
+            </step>
+        </steps>
+        <result>
+            <p>Our next approach will also solve these problems. </p>
+        </result>
+    </taskbody>
+</task>
