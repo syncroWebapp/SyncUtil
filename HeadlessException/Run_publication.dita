@@ -12,7 +12,7 @@
                 </cmd>
             </step>
             <step>
-                <cmd><image href="images/blured-shapes.svg" id="image_txc_t34_1z"/></cmd>
+                <cmd><b><image href="images/blured-shapes.svg" id="image_txc_t34_1z"/></b></cmd>
             </step>
             <step>
                 <cmd>
